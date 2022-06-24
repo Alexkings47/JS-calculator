@@ -1,5 +1,5 @@
 ``
-console.log("Calculator. Add, Subtract, Divide, Multiply, e.g calculator(add,9,5,8)")
+console.log("Calculator. Add, Subtract, Divide, Multiply,Example. calculator(add,9,5,8)")
 
 function calculator(a,b,...numbers){
   let operator = a.toLowerCase();
